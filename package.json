@@ -1,0 +1,10 @@
+{
+ "name": "zz-probe",
+ "version": "0.0.1",
+ "private": true,
+ "dependencies": {
+  "lodash": "4.17.4",
+  "minimist": "0.0.8",
+  "node-fetch": "2.6.0"
+ }
+}
